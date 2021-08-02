@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bjorn107 , or Bjorn for short.
+- 👀 I’m interested in video games and  hosting servers
+- 🌱 I’m currently learning: as of 8/2/2021 im learning on how to make an Arma 3 dedicated server
+- 📫 How to reach me: discord - bjorn#2021
